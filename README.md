@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">email manarabdelgawad11@gmail.com<br>Kaggle: https://www.kaggle.com/manarabdelgawad</p>
+<p align="left">Email : manarabdelgawad531@gmail.com<br>Kaggle : https://www.kaggle.com/manarabdelgawad</p>
 
 ###
 
@@ -26,6 +26,9 @@
   </a>
   <a href="https://twitter.com/manar_2923" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21790770/manar-abdelgawad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
