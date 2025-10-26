@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Computer Science Student | Beginner in Machine Learning</p>
+<p align="center"> AI Engineer | Specialized in Computer Vision & NLP</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Email : manarabdelgawad531@gmail.com<br>Kaggle : https://www.kaggle.com/manarabdelgawad</p>
+<p align="left">Email : manarabdelgawad11@gmail.com<br>Kaggle : https://www.kaggle.com/manarabdelgawad</p>
 
 ###
 
