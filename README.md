@@ -6,10 +6,11 @@
 
 <img src="https://i.pinimg.com/564x/d4/ba/b7/d4bab77b22ad2499b69b534f74f32bc4.jpg" alt="Manar AbdElgawad" width="200" height="200" style="border-radius: 50%; border: 4px solid #2c5364; box-shadow: 0 0 20px rgba(44,83,100,0.3);" />
 
-[![Email](https://img.shields.io/badge/Email-manarabdelgawad11@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:manarabdelgawad11@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-manarabdelgawad-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/manarabdelgawad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manar_Abdelgawad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manar-abdelgawad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Manar__Hammad-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Manar_Hammad/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:manarabdelgawad11@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle)](https://kaggle.com/manarabdelgawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/manar-abdelgawad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Manar_Hammad/)
 
 </div>
 
@@ -17,15 +18,15 @@
 
 <div align="center">
 
-### 🤖 Computer Vision
+###  Computer Vision
 `Object Detection` `Image Segmentation` `OpenCV` `YOLO` `CNN` `Feature Extraction`
 
-### 📝 Natural Language Processing  
+###  Natural Language Processing  
 `Text Classification` `Transformer Models` `BERT` `NLTK` `spaCy` `Sentiment Analysis`
 
 </div>
 
-## 💻 Technical Stack
+##  Technical Stack
 
 <div align="center">
 
@@ -43,7 +44,7 @@
 
 </div>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -56,35 +57,20 @@
 
 <div align="center">
 
-### 🎯 **Computer Vision Projects**
+###  **Computer Vision Projects**
 `Real-time Object Detection` `Medical Image Analysis` `Autonomous Systems` `Transfer Learning`
 
-### 📊 **NLP Applications**  
+###  **NLP Applications**  
 `Sentiment Analysis` `Text Generation` `Chatbot Development`
 
 </div>
 
-## 📫 Let's Connect & Collaborate
+##  Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/📂_GitHub-black?style=for-the-badge&logo=github)](https://github.com/ManarAbdelgawad)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manar-abdelgawad)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ManarAbdelgawad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manar-abdelgawad)
 
 </div>
 
----
-
-<div align="center">
-
-### **"Transforming ideas into intelligent solutions through cutting-edge AI"**
-
- **Open to collaborations in AI research and innovative machine learning projects** 
-
-</div>
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=ManarAbdelgawad&color=2c5364&style=flat-square" alt="Profile views" />
-
-</div>
